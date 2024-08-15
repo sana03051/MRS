@@ -1,3 +1,3 @@
 # MRS
-Maintenance Repairing Service Android App
-aUTHOR: Sani Akhtar
+Maintenance Repairing Service Android App </br>
+Author : Sani Akhtar
